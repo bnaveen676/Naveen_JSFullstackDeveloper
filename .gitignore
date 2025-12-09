@@ -1,0 +1,6 @@
+# node module is large folder so it should be ignore
+nodemodules/
+
+# file ignore here...
+.env
+testIgnore.js
